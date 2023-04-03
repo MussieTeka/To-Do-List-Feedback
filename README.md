@@ -31,7 +31,7 @@
 
 # 📖 To Do List App <a name="about-project"></a>
 
-This is a simple to-do list web application that allows users to add, edit, and delete tasks. The app is built using HTML, CSS, JavaScript, and runs on WebApp. The project is still on progress.
+This is a simple to-do list web application that allows users to add, edit, and delete tasks. The app is built using HTML, CSS, and JavaScript. The project is still on progress.
 
 ## 🛠 Built With <a name="built-with"></a>
 
